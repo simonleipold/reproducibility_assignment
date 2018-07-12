@@ -161,4 +161,3 @@ ggplot(ci.sum, aes(x=congruency, y=reactiontimes), group=1) +
   ylab("Reaction Times")  + xlab("Condition") + theme_bw(base_size=14) + 
   theme(panel.grid.major.x = element_blank())
 ```
-ß
